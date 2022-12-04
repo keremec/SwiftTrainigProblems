@@ -1,4 +1,4 @@
-# First-Week-Homework
+# Swift-Training-Problems
 
 1- Palindrome. Verilen Stringin palindrome olup olmadığını kontrol eden bir fonksiyon yazınız.
 
